@@ -1,0 +1,22 @@
+[
+    {
+        "chain_id": "80001",
+        "type": "evm",
+        "name": "Polygon Testnet",
+        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Matic.svg",
+        "symbol": "MATIC",
+        "gasPrice": "10000000000",
+        "rpc": "https://rpc.ankr.com/polygon_mumbai",
+        "explorer": "https://mumbai.polygonscan.com/tx/_txn_hash"
+    },
+    {
+        "chain_id": "97",
+        "type": "evm",
+        "name": "BSC Testnet",
+        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/BSC.svg",
+        "symbol": "tBNB",
+        "gasPrice": "10000000000",
+        "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+        "explorer": "https://testnet.bscscan.com/tx/_txn_hash"
+    }
+]
