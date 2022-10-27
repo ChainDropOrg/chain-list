@@ -28,5 +28,15 @@
         "gasPrice": "100000000000",
         "rpc": "https://rpc.ankr.com/eth_goerli",
         "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
+    },
+    {
+        "chain_id": "11155111",
+        "type": "evm",
+        "name": "Sepolia Testnet",
+        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
+        "symbol": "sETH",
+        "gasPrice": "10000000000",
+        "rpc": "https://rpc.sepolia.org",
+        "explorer": "https://sepolia.etherscan.io/tx/_txn_hash"
     }
 ]
