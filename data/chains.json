@@ -38,5 +38,15 @@
         "gasPrice": "1000000000",
         "rpc": "https://rpc.sepolia.org",
         "explorer": "https://sepolia.etherscan.io/tx/_txn_hash"
+    },
+    {
+        "chain_id": "1287",
+        "type": "evm",
+        "name": "Moonbase Testnet",
+        "logoURI": "https://chaindroporg.github.io/token-list/data/logo/MoonbaseAlpha_icon.svg",
+        "symbol": "DEV",
+        "gasPrice": "1000000000",
+        "rpc": "https://rpc.api.moonbase.moonbeam.network",
+        "explorer": "https://moonbase.moonscan.io/tx/_txn_hash"
     }
 ]
