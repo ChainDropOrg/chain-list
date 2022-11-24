@@ -42,7 +42,7 @@
     {
         "chain_id": "1287",
         "type": "evm",
-        "name": "Moonbase Testnet",
+        "name": "Moonbase Alpha",
         "logoURI": "https://chaindroporg.github.io/token-list/data/logo/MoonbaseAlpha_icon.svg",
         "symbol": "DEV",
         "gasPrice": "1000000000",
