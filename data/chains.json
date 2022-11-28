@@ -48,5 +48,25 @@
         "gasPrice": "1000000000",
         "rpc": "https://rpc.api.moonbase.moonbeam.network",
         "explorer": "https://moonbase.moonscan.io/tx/_txn_hash"
+    },
+    {
+        "chain_id": "181",
+        "type": "evm",
+        "name": "AME Chain",
+        "logoURI": "https://chaindroporg.github.io/token-list/data/logo/AME.png",
+        "symbol": "AME",
+        "gasPrice": "1000000000",
+        "rpc": "https://testnet.amechain.io/",
+        "explorer": "https://testnet.amescan.io/tx/_txn_hash"
+    },
+    {
+        "chain_id": "81",
+        "type": "evm",
+        "name": "Shibuya Testnet",
+        "logoURI": "https://chaindroporg.github.io/token-list/data/logo/shibuya.webp",
+        "symbol": "SBY",
+        "gasPrice": "1000000000",
+        "rpc": "https://shibuya.public.blastapi.io",
+        "explorer": "https://shibuya.subscan.io/tx/_txn_hash"
     }
 ]
