@@ -70,13 +70,13 @@
         "explorer": "https://shibuya.subscan.io/tx/_txn_hash"
     },
     {
-        "chain_id": "1666700000",
+        "chain_id": "1666700001",
         "type": "evm",
         "name": "Harmony Testnet",
         "logoURI": "https://chaindroporg.github.io/token-list/data/logo/One.svg",
         "symbol": "ONE",
         "gasPrice": "1000000000",
-        "rpc": "https://api.s0.b.hmny.io",
-        "explorer": "https://explorer.testnet.harmony.one/tx/_txn_hash"
+        "rpc": "https://api.s1.b.hmny.io",
+        "explorer": "https://explorer.pops.one/tx/_txn_hash"
     }
 ]
