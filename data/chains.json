@@ -78,5 +78,15 @@
         "gasPrice": "1000000000",
         "rpc": "https://api.s1.b.hmny.io",
         "explorer": "https://explorer.pops.one/tx/_txn_hash"
+    },
+    {
+        "chain_id": "31",
+        "type": "evm",
+        "name": "RSK Testnet",
+        "logoURI": "https://chaindroporg.github.io/token-list/data/logo/rsk.png",
+        "symbol": "RBTC",
+        "gasPrice": "1000000000",
+        "rpc": "https://public-node.testnet.rsk.co",
+        "explorer": "https://explorer.testnet.rsk.co/tx/_txn_hash"
     }
 ]
