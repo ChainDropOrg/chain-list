@@ -88,5 +88,15 @@
         "gasPrice": "1000000000",
         "rpc": "https://public-node.testnet.rsk.co",
         "explorer": "https://explorer.testnet.rsk.co/tx/_txn_hash"
+    },
+    {
+        "chain_id": "64668",
+        "type": "evm",
+        "name": "Bitgert Testnet",
+        "logoURI": "https://chaindroporg.github.io/token-list/data/logo/Brise.png",
+        "symbol": "BRISE",
+        "gasPrice": "1000000000",
+        "rpc": "https://testnet-rpc.brisescan.com",
+        "explorer": " https://testnet-explorer.brisescan.com/tx/_txn_hash"
     }
 ]
