@@ -75,7 +75,7 @@
         "name": "Harmony Testnet",
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/one.svg",
         "symbol": "ONE",
-        "gasPrice": "1000000000",
+        "gasPrice": "10000000000",
         "rpc": "https://api.s1.b.hmny.io",
         "explorer": "https://explorer.pops.one/tx/_txn_hash"
     },
