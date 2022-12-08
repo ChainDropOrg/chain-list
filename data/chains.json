@@ -76,7 +76,7 @@
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/one.svg",
         "symbol": "ONE",
         "gasPrice": "100000000000",
-        "rpc": "https://api.s1.b.hmny.io",
+        "rpc": "https://api.s0.b.hmny.io",
         "explorer": "https://explorer.pops.one/tx/_txn_hash"
     },
     {
