@@ -72,7 +72,7 @@
     {
         "chain_id": "1666700000",
         "type": "evm",
-        "name": "Harmony One Testnet",
+        "name": "Harmony Testnet",
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/one.svg",
         "symbol": "ONE",
         "gasPrice": "100000000000",
