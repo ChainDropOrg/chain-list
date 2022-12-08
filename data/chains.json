@@ -85,7 +85,7 @@
         "name": "RSK Testnet",
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Rsk.png",
         "symbol": "RBTC",
-        "gasPrice": "0.00000009",
+        "gasPrice": "100000000000",
         "rpc": "https://public-node.testnet.rsk.co",
         "explorer": "https://explorer.testnet.rsk.co/tx/_txn_hash"
     },
