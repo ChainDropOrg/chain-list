@@ -70,9 +70,9 @@
         "explorer": "https://shibuya.subscan.io/tx/_txn_hash"
     },
     {
-        "chain_id": "1666700001",
+        "chain_id": "1666700000",
         "type": "evm",
-        "name": "Harmony Testnet",
+        "name": "Harmony One Testnet",
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/one.svg",
         "symbol": "ONE",
         "gasPrice": "100000000000",
