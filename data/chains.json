@@ -95,8 +95,18 @@
         "name": "Bitgert Testnet",
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Brise.png",
         "symbol": "BRISE",
-        "gasPrice": "100000000000",
+        "gasPrice": "1",
         "rpc": "https://testnet-rpc.brisescan.com",
         "explorer": " https://testnet-explorer.brisescan.com/tx/_txn_hash"
+    },
+    {
+        "chain_id": "8080",
+        "type": "evm",
+        "name": "Shardeum Testnet",
+        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
+        "symbol": "SHM",
+        "gasPrice": "0.24",
+        "rpc": "https://liberty10.shardeum.org/",
+        "explorer": " https://explorer-liberty10.shardeum.org/tx/_txn_hash"
     }
 ]
