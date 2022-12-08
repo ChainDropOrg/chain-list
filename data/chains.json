@@ -105,7 +105,7 @@
         "name": "Shardeum Testnet",
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
         "symbol": "SHM",
-        "gasPrice": "0.24",
+        "gasPrice": "1",
         "rpc": "https://liberty10.shardeum.org/",
         "explorer": " https://explorer-liberty10.shardeum.org/tx/_txn_hash"
     }
