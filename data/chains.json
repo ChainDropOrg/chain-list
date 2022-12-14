@@ -1,122 +1,112 @@
 [
-    {
-        "chain_id": "80001",
-        "type": "evm",
-        "name": "Polygon Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Matic.svg",
-        "symbol": "MATIC",
-        "gasPrice": "10000000000",
-        "rpc": "https://rpc.ankr.com/polygon_mumbai",
-        "explorer": "https://mumbai.polygonscan.com/tx/_txn_hash"
-    },
-    {
-        "chain_id": "97",
-        "type": "evm",
-        "name": "BSC Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/BSC.svg",
-        "symbol": "tBNB",
-        "gasPrice": "10000000000",
-        "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-        "explorer": "https://testnet.bscscan.com/tx/_txn_hash"
-    },
-    {
-        "chain_id": "5",
-        "type": "evm",
-        "name": "Goerli Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
-        "symbol": "gETH",
-        "gasPrice": "100000000000",
-        "rpc": "https://rpc.ankr.com/eth_goerli",
-        "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
-    },
-    {
-        "chain_id": "11155111",
-        "type": "evm",
-        "name": "Sepolia Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
-        "symbol": "sETH",
-        "gasPrice": "1000000000",
-        "rpc": "https://rpc.sepolia.org",
-        "explorer": "https://sepolia.etherscan.io/tx/_txn_hash"
-    },
-    {
-        "chain_id": "1287",
-        "type": "evm",
-        "name": "Moonbase Alpha",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/MoonbaseAlpha_icon.svg",
-        "symbol": "DEV",
-        "gasPrice": "1000000000",
-        "rpc": "https://rpc.api.moonbase.moonbeam.network",
-        "explorer": "https://moonbase.moonscan.io/tx/_txn_hash"
-    },
-    {
-        "chain_id": "181",
-        "type": "evm",
-        "name": "AME Chain",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/AME.svg",
-        "symbol": "AME",
-        "gasPrice": "1000000000",
-        "rpc": "https://testnet.amechain.io/",
-        "explorer": "https://testnet.amescan.io/tx/_txn_hash"
-    },
-    {
-        "chain_id": "81",
-        "type": "evm",
-        "name": "Shibuya Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/shibuya.webp",
-        "symbol": "SBY",
-        "gasPrice": "1000000000",
-        "rpc": "https://shibuya.public.blastapi.io",
-        "explorer": "https://shibuya.subscan.io/tx/_txn_hash"
-    },
-    {
-        "chain_id": "1666700000",
-        "type": "evm",
-        "name": "Harmony Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/one.svg",
-        "symbol": "ONE",
-        "gasPrice": "100000000000",
-        "rpc": "https://api.s0.b.hmny.io",
-        "explorer": "https://explorer.pops.one/tx/_txn_hash"
-    },
-    {
-        "chain_id": "31",
-        "type": "evm",
-        "name": "RSK Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Rsk.png",
-        "symbol": "RBTC",
-        "gasPrice": "1000000000000",
-        "rpc": "https://public-node.testnet.rsk.co",
-        "explorer": "https://explorer.testnet.rsk.co/tx/_txn_hash"
-    },
-    {
-        "chain_id": "64668",
-        "type": "evm",
-        "name": "Bitgert Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Brise.png",
-        "symbol": "BRISE",
-        "gasPrice": "1000000000000",
-        "rpc": "https://testnet-rpc.brisescan.com",
-        "explorer": " https://testnet-explorer.brisescan.com/tx/_txn_hash"
-    },
-    {
-        "chain_id": "8080",
-        "type": "evm",
-        "name": "Shardeum Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
-        "symbol": "SHM",
-        "gasPrice": "1",
-        "rpc": "https://liberty10.shardeum.org/",
-        "explorer": " https://explorer-liberty10.shardeum.org/tx/_txn_hash"
-    },
-    {
-        "chain_id": "1313161555",
-        "type": "evm",
-        "name": "Aurora Testnet",
-        "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/empty-token.png",
-        "symbol": "ETH",
-        "gasPrice": "100000000000",
-        "rpc": "https://rpc.ankr.com/eth_goerli",
-        "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
-    }
+  {
+    "chain_id": "80001",
+    "type": "evm",
+    "name": "Polygon Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Matic.svg",
+    "symbol": "MATIC",
+    "gasPrice": "10000000000",
+    "rpc": "https://rpc.ankr.com/polygon_mumbai",
+    "explorer": "https://mumbai.polygonscan.com/tx/_txn_hash"
+  },
+  {
+    "chain_id": "97",
+    "type": "evm",
+    "name": "BSC Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/BSC.svg",
+    "symbol": "tBNB",
+    "gasPrice": "10000000000",
+    "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+    "explorer": "https://testnet.bscscan.com/tx/_txn_hash"
+  },
+  {
+    "chain_id": "5",
+    "type": "evm",
+    "name": "Goerli Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
+    "symbol": "gETH",
+    "gasPrice": "100000000000",
+    "rpc": "https://rpc.ankr.com/eth_goerli",
+    "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "11155111",
+    "type": "evm",
+    "name": "Sepolia Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
+    "symbol": "sETH",
+    "gasPrice": "1000000000",
+    "rpc": "https://rpc.sepolia.org",
+    "explorer": "https://sepolia.etherscan.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "1287",
+    "type": "evm",
+    "name": "Moonbase Alpha",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/MoonbaseAlpha_icon.svg",
+    "symbol": "DEV",
+    "gasPrice": "1000000000",
+    "rpc": "https://rpc.api.moonbase.moonbeam.network",
+    "explorer": "https://moonbase.moonscan.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "181",
+    "type": "evm",
+    "name": "AME Chain",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/AME.svg",
+    "symbol": "AME",
+    "gasPrice": "1000000000",
+    "rpc": "https://testnet.amechain.io/",
+    "explorer": "https://testnet.amescan.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "81",
+    "type": "evm",
+    "name": "Shibuya Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/shibuya.webp",
+    "symbol": "SBY",
+    "gasPrice": "1000000000",
+    "rpc": "https://shibuya.public.blastapi.io",
+    "explorer": "https://shibuya.subscan.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "1666700000",
+    "type": "evm",
+    "name": "Harmony Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/one.svg",
+    "symbol": "ONE",
+    "gasPrice": "100000000000",
+    "rpc": "https://api.s0.b.hmny.io",
+    "explorer": "https://explorer.pops.one/tx/_txn_hash"
+  },
+  {
+    "chain_id": "31",
+    "type": "evm",
+    "name": "RSK Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Rsk.png",
+    "symbol": "RBTC",
+    "gasPrice": "1000000000000",
+    "rpc": "https://public-node.testnet.rsk.co",
+    "explorer": "https://explorer.testnet.rsk.co/tx/_txn_hash"
+  },
+  {
+    "chain_id": "64668",
+    "type": "evm",
+    "name": "Bitgert Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Brise.png",
+    "symbol": "BRISE",
+    "gasPrice": "1000000000000",
+    "rpc": "https://testnet-rpc.brisescan.com",
+    "explorer": " https://testnet-explorer.brisescan.com/tx/_txn_hash"
+  },
+  {
+    "chain_id": "8080",
+    "type": "evm",
+    "name": "Shardeum Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
+    "symbol": "SHM",
+    "gasPrice": "1",
+    "rpc": "https://liberty10.shardeum.org/",
+    "explorer": " https://explorer-liberty10.shardeum.org/tx/_txn_hash"
+  }
 ]
