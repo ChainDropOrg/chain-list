@@ -95,7 +95,7 @@
         "name": "Bitgert Testnet",
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Brise.png",
         "symbol": "BRISE",
-        "gasPrice": "0.000021",
+        "gasPrice": "0.000131649",
         "rpc": "https://testnet-rpc.brisescan.com",
         "explorer": " https://testnet-explorer.brisescan.com/tx/_txn_hash"
     },
