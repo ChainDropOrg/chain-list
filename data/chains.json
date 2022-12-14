@@ -116,7 +116,7 @@
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/empty-token.png",
         "symbol": "ETH",
         "gasPrice": "100000000000",
-        "rpc": "https://testnet.aurora.dev/",
+        "rpc": "https://rpc.ankr.com/eth_goerli",
         "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
     }
 ]
