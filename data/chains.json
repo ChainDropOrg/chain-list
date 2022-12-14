@@ -115,7 +115,7 @@
         "name": "Aurora Testnet",
         "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/empty-token.png",
         "symbol": "ETH",
-        "gasPrice": "1",
+        "gasPrice": "100000000000",
         "rpc": "https://testnet.aurora.dev/",
         "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
     }
