@@ -110,7 +110,7 @@
     "explorer": " https://explorer-liberty10.shardeum.org/tx/_txn_hash"
   },
   {
-    "chain_id": "8080",
+    "chain_id": "5",
     "type": "evm",
     "name": "Aurora Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Aurora.png",
