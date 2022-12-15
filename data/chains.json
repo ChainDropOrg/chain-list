@@ -26,7 +26,7 @@
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
     "symbol": "GoerliETH",
     "gasPrice": "100000000000",
-    "rpc": "https://goerli.infura.io/v3/",
+    "rpc": "https://rpc.ankr.com/eth_goerli",
     "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
   },
   {
