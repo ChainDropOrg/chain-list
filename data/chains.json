@@ -85,7 +85,7 @@
     "name": "RSK Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Rsk.png",
     "symbol": "RBTC",
-    "gasPrice": "1000000000000",
+    "gasPrice": "0.000000000065157483",
     "rpc": "https://public-node.testnet.rsk.co",
     "explorer": "https://explorer.testnet.rsk.co/tx/_txn_hash"
   },
@@ -95,7 +95,7 @@
     "name": "Bitgert Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Brise.png",
     "symbol": "BRISE",
-    "gasPrice": "0.000000000065157483",
+    "gasPrice": "1000000000000",
     "rpc": "https://testnet-rpc.brisescan.com",
     "explorer": " https://testnet-explorer.brisescan.com/tx/_txn_hash"
   },
