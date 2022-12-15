@@ -25,7 +25,7 @@
     "name": "Goerli Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
     "symbol": "GoerliETH",
-    "gasPrice": "10000000000000",
+    "gasPrice": "100000000000",
     "rpc": "https://goerli.infura.io/v3/",
     "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
   },
