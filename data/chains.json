@@ -22,9 +22,9 @@
   {
     "chain_id": "5",
     "type": "evm",
-    "name": "Aurora Testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Aurora.webp",
-    "symbol": "AURORA",
+    "name": "Goerli Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
+    "symbol": "gETH",
     "gasPrice": "100000000000",
     "rpc": "https://rpc.ankr.com/eth_goerli",
     "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
