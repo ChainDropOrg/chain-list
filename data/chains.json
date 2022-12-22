@@ -106,7 +106,7 @@
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
     "symbol": "SHM",
     "gasPrice": "1",
-    "rpc": "https://liberty10.shardeum.org/",
-    "explorer": " https://explorer-liberty10.shardeum.org/tx/_txn_hash"
+    "rpc": "https://liberty20.shardeum.org",
+    "explorer": "https://explorer-liberty20.shardeum.org/tx/_txn_hash"
   }
 ]
