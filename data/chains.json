@@ -82,7 +82,7 @@
   {
     "chain_id": "31",
     "type": "evm",
-    "name": "RSK Testnet",
+    "name": "Rootstock Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Rsk.png",
     "symbol": "RBTC",
     "gasPrice": "0.000000000065164",
@@ -100,7 +100,7 @@
     "explorer": " https://testnet-explorer.brisescan.com/tx/_txn_hash"
   },
   {
-    "chain_id": "8080",
+    "chain_id": "8081",
     "type": "evm",
     "name": "Shardeum Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
