@@ -108,5 +108,15 @@
     "gasPrice": "1",
     "rpc": "https://liberty20.shardeum.org",
     "explorer": "https://explorer-liberty20.shardeum.org/tx/_txn_hash"
+  },
+  {
+    "chain_id": "41",
+    "type": "evm",
+    "name": "Telos Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/TLOS.png",
+    "symbol": "TLOS",
+    "gasPrice": "0.24664",
+    "rpc": "testnet.telos.net/evm",
+    "explorer": "testnet.teloscan.io/tx/_txn_hash"
   }
 ]
