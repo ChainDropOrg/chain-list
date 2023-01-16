@@ -116,7 +116,7 @@
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/TLOS.png",
     "symbol": "TLOS",
     "gasPrice": "0.01057",
-    "rpc": "testnet.telos.net/evm",
-    "explorer": "testnet.teloscan.io/tx/_txn_hash"
+    "rpc": "https://testnet.telos.net/evm",
+    "explorer": "https://testnet.teloscan.io/tx/_txn_hash"
   }
 ]
