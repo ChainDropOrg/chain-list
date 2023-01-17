@@ -105,7 +105,7 @@
     "name": "Bitgert Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Brise.png",
     "symbol": "BRISE",
-    "gasPrice": "100000000000",
+    "gasPrice": "2000000000",
     "rpc": "https://testnet-rpc.brisescan.com",
     "explorer": "https://testnet-explorer.brisescan.com/tx/_txn_hash"
   },
@@ -125,7 +125,7 @@
     "name": "Fantom Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Fantom.png",
     "symbol": "FTM",
-    "gasPrice": "600000000000",
+    "gasPrice": "3000000000",
     "rpc": "https://rpc.testnet.fantom.network/",
     "explorer": "https://testnet.ftmscan.com/tx/_txn_hash"
   }
