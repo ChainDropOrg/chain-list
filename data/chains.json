@@ -120,7 +120,7 @@
     "explorer": "https://testnet.teloscan.io/tx/_txn_hash"
   },
   {
-    "chain_id": "0xfa2",
+    "chain_id": "4002",
     "type": "evm",
     "name": "Fantom Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Fantom.png",
