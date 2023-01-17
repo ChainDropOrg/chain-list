@@ -60,16 +60,6 @@
     "explorer": "https://testnet.bscscan.com/tx/_txn_hash"
   },
   {
-    "chain_id": "8081",
-    "type": "evm",
-    "name": "Shardeum Testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
-    "symbol": "SHM",
-    "gasPrice": "1000000000",
-    "rpc": "https://liberty20.shardeum.org",
-    "explorer": "https://explorer-liberty20.shardeum.org/tx/_txn_hash"
-  },
-  {
     "chain_id": "1287",
     "type": "evm",
     "name": "Moonbase Alpha",
@@ -128,5 +118,15 @@
     "gasPrice": "2000000000",
     "rpc": "https://testnet-rpc.brisescan.com",
     "explorer": "https://testnet-explorer.brisescan.com/tx/_txn_hash"
+  },
+  {
+    "chain_id": "8081",
+    "type": "evm",
+    "name": "Shardeum Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
+    "symbol": "SHM",
+    "gasPrice": "1000000000",
+    "rpc": "https://liberty20.shardeum.org",
+    "explorer": "https://explorer-liberty20.shardeum.org/tx/_txn_hash"
   }
 ]
