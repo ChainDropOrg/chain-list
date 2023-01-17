@@ -20,6 +20,26 @@
     "explorer": "https://sepolia.etherscan.io/tx/_txn_hash"
   },
   {
+    "chain_id": "41",
+    "type": "evm",
+    "name": "Telos Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/TLOS.png",
+    "symbol": "TLOS",
+    "gasPrice": "600000000000",
+    "rpc": "https://testnet.telos.net/evm",
+    "explorer": "https://testnet.teloscan.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "4002",
+    "type": "evm",
+    "name": "Fantom Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Fantom.png",
+    "symbol": "FTM",
+    "gasPrice": "30000000000",
+    "rpc": "https://rpc.ankr.com/fantom_testnet",
+    "explorer": "https://testnet.ftmscan.com/tx/_txn_hash"
+  },
+  {
     "chain_id": "80001",
     "type": "evm",
     "name": "Polygon Testnet",
@@ -108,25 +128,5 @@
     "gasPrice": "2000000000",
     "rpc": "https://testnet-rpc.brisescan.com",
     "explorer": "https://testnet-explorer.brisescan.com/tx/_txn_hash"
-  },
-  {
-    "chain_id": "41",
-    "type": "evm",
-    "name": "Telos Testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/TLOS.png",
-    "symbol": "TLOS",
-    "gasPrice": "600000000000",
-    "rpc": "https://testnet.telos.net/evm",
-    "explorer": "https://testnet.teloscan.io/tx/_txn_hash"
-  },
-  {
-    "chain_id": "4002",
-    "type": "evm",
-    "name": "Fantom Testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Fantom.png",
-    "symbol": "FTM",
-    "gasPrice": "30000000000",
-    "rpc": "https://rpc.ankr.com/fantom_testnet",
-    "explorer": "https://testnet.ftmscan.com/tx/_txn_hash"
   }
 ]
