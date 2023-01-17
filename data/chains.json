@@ -75,7 +75,7 @@
     "name": "AME Chain",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/AME.svg",
     "symbol": "AME",
-    "gasPrice": "1000000000",
+    "gasPrice": "10000000000",
     "rpc": "https://testnet.amechain.io/",
     "explorer": "https://testnet.amescan.io/tx/_txn_hash"
   },
