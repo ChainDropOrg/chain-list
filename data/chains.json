@@ -125,8 +125,8 @@
     "name": "Fantom Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Fantom.png",
     "symbol": "FTM",
-    "gasPrice": "3000000000",
-    "rpc": "https://rpc.testnet.fantom.network/",
+    "gasPrice": "30000000000",
+    "rpc": "https://rpc.ankr.com/fantom_testnet",
     "explorer": "https://testnet.ftmscan.com/tx/_txn_hash"
   }
 ]
