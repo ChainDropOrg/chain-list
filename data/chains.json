@@ -128,5 +128,15 @@
     "gasPrice": "1000000000",
     "rpc": "https://liberty20.shardeum.org",
     "explorer": "https://explorer-liberty20.shardeum.org/tx/_txn_hash"
+  },
+  {
+    "chain_id": "23295",
+    "type": "evm",
+    "name": "Sapphire Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Oasis.png",
+    "symbol": "ROSE",
+    "gasPrice": "200000000000",
+    "rpc": "https://testnet.sapphire.oasis.dev",
+    "explorer": "https://testnet.explorer.sapphire.oasis.dev/tx/_txn_hash"
   }
 ]
