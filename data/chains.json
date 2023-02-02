@@ -138,5 +138,15 @@
     "gasPrice": "200000000000",
     "rpc": "https://testnet.sapphire.oasis.dev",
     "explorer": "https://testnet.explorer.sapphire.oasis.dev/tx/_txn_hash"
+  },
+  {
+    "chain_id": "8082",
+    "type": "evm",
+    "name": "Shardeum Betanet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
+    "symbol": "SHM",
+    "gasPrice": "1000000000",
+    "rpc": "https://sphinx.shardeum.org/",
+    "explorer": "https://explorer-sphinx.shardeum.org/tx/_txn_hash"
   }
 ]
