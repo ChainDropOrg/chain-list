@@ -148,5 +148,15 @@
     "gasPrice": "1000000000",
     "rpc": "https://sphinx.shardeum.org/",
     "explorer": "https://explorer-sphinx.shardeum.org/tx/_txn_hash"
+  },
+  {
+    "chain_id": "5851",
+    "type": "evm",
+    "name": "Ontology Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/ONG.svg",
+    "symbol": "ONG",
+    "gasPrice": "1000000000",
+    "rpc": "https://polaris1.ont.io:10339/",
+    "explorer": "https://explorer.ont.io/testnet/tx/_txn_hash"
   }
 ]
