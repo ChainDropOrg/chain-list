@@ -158,5 +158,15 @@
     "gasPrice": "70615000000000",
     "rpc": "https://polaris1.ont.io:10339/",
     "explorer": "https://explorer.ont.io/testnet/tx/_txn_hash"
+  },
+  {
+    "chain_id": "1945",
+    "type": "evm",
+    "name": "ONUS Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/ONUS.png",
+    "symbol": "ONUS",
+    "gasPrice": "1000000000",
+    "rpc": "https://rpc-testnet.onuschain.io/",
+    "explorer": "https://explorer-testnet.onuschain.io/tx/_txn_hash"
   }
 ]
