@@ -165,7 +165,7 @@
     "name": "ONUS Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/ONUS.png",
     "symbol": "ONUS",
-    "gasPrice": "1000000000",
+    "gasPrice": "5000000000",
     "rpc": "https://rpc-testnet.onuschain.io/",
     "explorer": "https://explorer-testnet.onuschain.io/tx/_txn_hash"
   }
