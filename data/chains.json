@@ -168,5 +168,15 @@
     "gasPrice": "50000000000",
     "rpc": "https://rpc-testnet.onuschain.io/",
     "explorer": "https://explorer-testnet.onuschain.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "123",
+    "type": "evm",
+    "name": "Fuse Network",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Fuse.png",
+    "symbol": "Fuse",
+    "gasPrice": "15000000000",
+    "rpc": "https://rpc.fusespark.io/",
+    "explorer": "https://explorer.fusespark.io/tx/_txn_hash"
   }
 ]
