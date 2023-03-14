@@ -185,7 +185,7 @@
     "name": "zkEVM-testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/zkevm.jpeg",
     "symbol": "zkEVM",
-    "gasPrice": "15000000000",
+    "gasPrice": "3000000000",
     "rpc": "https://rpc.public.zkevm-test.net",
     "explorer": "https://explorer.public.zkevm-test.net"
   }
