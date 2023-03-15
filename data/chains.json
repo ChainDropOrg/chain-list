@@ -187,6 +187,6 @@
     "symbol": "zkEVM",
     "gasPrice": "3000000000",
     "rpc": "https://rpc.public.zkevm-test.net",
-    "explorer": "https://explorer.public.zkevm-test.net"
+    "explorer": "https://explorer.public.zkevm-test.net/tx/_txn_hash"
   }
 ]
