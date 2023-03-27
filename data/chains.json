@@ -116,7 +116,7 @@
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Brise.png",
     "symbol": "BRISE",
     "gasPrice": "2000000000",
-    "rpc": "https://testnet-rpc.brisescan.com",
+    "rpc": "https://rpc.icecreamswap.com",
     "explorer": "https://testnet-explorer.brisescan.com/tx/_txn_hash"
   },
   {
