@@ -188,5 +188,15 @@
     "gasPrice": "200000000000",
     "rpc": "https://rpc.public.zkevm-test.net",
     "explorer": "https://testnet-zkevm.polygonscan.com/tx/_txn_hash"
+  },
+  {
+    "chain_id": "21772",
+    "type": "evm",
+    "name": "Goshen Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/goshen.png",
+    "symbol": "gETH",
+    "gasPrice": "200000000000",
+    "rpc": "https://testnet-alpha.goshen.network/rpc/",
+    "explorer": "https://explorer-testnet.goshen.network/tx/_txn_hash"
   }
 ]
