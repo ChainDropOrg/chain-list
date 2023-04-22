@@ -163,7 +163,7 @@
     "chain_id": "5851",
     "type": "evm",
     "name": "Ontology Testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Ontology_color.png",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/ONT.png",
     "symbol": "ONG",
     "gasPrice": "70615000000000",
     "rpc": "https://polaris1.ont.io:10339/",
