@@ -25,7 +25,7 @@
     "name": "Goshen Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/goshen.png",
     "symbol": "Goshen",
-    "gasPrice": "1000000000",
+    "gasPrice": "6000000000000",
     "rpc": "https://testnet-alpha.goshen.network/rpc/",
     "explorer": "https://explorer-testnet.goshen.network/tx/_txn_hash"
   },
