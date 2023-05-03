@@ -182,7 +182,7 @@
   {
     "chain_id": "123",
     "type": "evm",
-    "name": "Fuse Network",
+    "name": "Fuse Spark Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Fuse.png",
     "symbol": "Fuse",
     "gasPrice": "15000000000",
