@@ -26,7 +26,7 @@
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/zksync.png",
     "symbol": "ETH",
     "gasPrice": "200000000000",
-    "rpc": "https://testnet.era.zksync.dev",
+    "rpc": "https://zksync2-testnet.zksync.dev",
     "explorer": "https://goerli.explorer.zksync.io/tx/_txn_hash"
   },
   {
