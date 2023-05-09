@@ -20,6 +20,16 @@
     "explorer": "https://sepolia.etherscan.io/tx/_txn_hash"
   },
   {
+    "chain_id": "280",
+    "type": "evm",
+    "name": "zkSync Era Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/zksync.png",
+    "symbol": "ETH",
+    "gasPrice": "200000000000",
+    "rpc": "https://testnet.era.zksync.dev",
+    "explorer": "https://goerli.explorer.zksync.io/tx/_txn_hash"
+  },
+  {
     "chain_id": "21772",
     "type": "evm",
     "name": "Goshen Testnet",
