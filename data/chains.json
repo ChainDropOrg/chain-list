@@ -25,7 +25,7 @@
     "name": "zkSync Era Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/zksync.png",
     "symbol": "ETH",
-    "gasPrice": "1000000000",
+    "gasPrice": "3090069500000000",
     "rpc": "https://zksync2-testnet.zksync.dev/",
     "explorer": "https://goerli.explorer.zksync.io/tx/_txn_hash"
   },
