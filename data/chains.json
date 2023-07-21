@@ -213,7 +213,7 @@
     "chain_id": "167005",
     "type": "evm",
     "name": "Taiko-testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/taiko-icon.png",
     "symbol": "ETH",
     "gasPrice": "200000000000",
     "rpc": "https://rpc.test.taiko.xyz",
