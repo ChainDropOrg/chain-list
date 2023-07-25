@@ -215,7 +215,7 @@
     "name": "Taiko-testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/taiko-icon.png",
     "symbol": "ETH",
-    "gasPrice": "6000000000000",
+    "gasPrice": "20000000000",
     "rpc": "https://rpc.test.taiko.xyz",
     "explorer": "https://explorer.test.taiko.xyz/tx/_txn_hash"
   }
