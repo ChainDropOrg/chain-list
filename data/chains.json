@@ -145,7 +145,7 @@
     "name": "Shardeum Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
     "symbol": "SHM",
-    "gasPrice": "30000000",
+    "gasPrice": "20000000000",
     "rpc": "https://dapps.shardeum.org",
     "explorer": "https://explorer-dapps.shardeum.org/tx/_txn_hash"
   },
