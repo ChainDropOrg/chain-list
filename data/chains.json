@@ -140,26 +140,6 @@
     "explorer": "https://testnet-explorer.brisescan.com/tx/_txn_hash"
   },
   {
-    "chain_id": "8081",
-    "type": "evm",
-    "name": "Shardeum Testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
-    "symbol": "SHM",
-    "gasPrice": "20000000000",
-    "rpc": "https://dapps.shardeum.org",
-    "explorer": "https://explorer-dapps.shardeum.org/tx/_txn_hash"
-  },
-  {
-    "chain_id": "23295",
-    "type": "evm",
-    "name": "Sapphire Testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Oasis.png",
-    "symbol": "ROSE",
-    "gasPrice": "200000000000",
-    "rpc": "https://testnet.sapphire.oasis.dev",
-    "explorer": "https://testnet.explorer.sapphire.oasis.dev/tx/_txn_hash"
-  },
-  {
     "chain_id": "8082",
     "type": "evm",
     "name": "Shardeum Betanet",
