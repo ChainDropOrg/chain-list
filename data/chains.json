@@ -25,7 +25,7 @@
     "name": "Holesky Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
     "symbol": "ETH",
-    "gasPrice": "1000000000",
+    "gasPrice": "6000000000000",
     "rpc": "https://ethereum-holesky.publicnode.com",
     "explorer": "https://holesky.beaconcha.in/tx/_txn_hash"
   },
