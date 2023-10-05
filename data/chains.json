@@ -5,7 +5,7 @@
     "name": "Goerli Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
     "symbol": "gETH",
-    "gasPrice": "100000000000",
+    "gasPrice": "6000000000000",
     "rpc": "https://rpc.ankr.com/eth_goerli",
     "explorer": "https://goerli.etherscan.io/tx/_txn_hash"
   },
@@ -18,6 +18,36 @@
     "gasPrice": "1000000000",
     "rpc": "https://rpc.sepolia.org",
     "explorer": "https://sepolia.etherscan.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "17000",
+    "type": "evm",
+    "name": "Holesky Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
+    "symbol": "ETH",
+    "gasPrice": "2000000000",
+    "rpc": "https://ethereum-holesky.publicnode.com",
+    "explorer": "https://holesky.beaconcha.in/tx/_txn_hash"
+  },
+  {
+    "chain_id": "280",
+    "type": "evm",
+    "name": "zkSync Era Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/zksync.png",
+    "symbol": "ETH",
+    "gasPrice": "1000000000",
+    "rpc": "https://zksync2-testnet.zksync.dev/",
+    "explorer": "https://goerli.explorer.zksync.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "21772",
+    "type": "evm",
+    "name": "Goshen Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/goshen.png",
+    "symbol": "Goshen",
+    "gasPrice": "1000000000",
+    "rpc": "https://testnet-alpha.goshen.network/rpc/",
+    "explorer": "https://explorer-testnet.goshen.network/tx/_txn_hash"
   },
   {
     "chain_id": "41",
@@ -120,14 +150,24 @@
     "explorer": "https://testnet-explorer.brisescan.com/tx/_txn_hash"
   },
   {
+    "chain_id": "8082",
+    "type": "evm",
+    "name": "Shardeum Betanet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
+    "symbol": "SHM",
+    "gasPrice": "300000000000",
+    "rpc": "https://sphinx.shardeum.org/",
+    "explorer": "https://explorer-sphinx.shardeum.org/tx/_txn_hash/"
+  },
+  {
     "chain_id": "8081",
     "type": "evm",
     "name": "Shardeum Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
     "symbol": "SHM",
-    "gasPrice": "1000000000",
-    "rpc": "https://liberty20.shardeum.org",
-    "explorer": "https://explorer-liberty20.shardeum.org/tx/_txn_hash"
+    "gasPrice": "300000000000",
+    "rpc": "https://dapps.shardeum.org/",
+    "explorer": "https://explorer-dapps.shardeum.org/tx/_txn_hash/"
   },
   {
     "chain_id": "23295",
@@ -139,21 +179,12 @@
     "rpc": "https://testnet.sapphire.oasis.dev",
     "explorer": "https://testnet.explorer.sapphire.oasis.dev/tx/_txn_hash"
   },
-  {
-    "chain_id": "8082",
-    "type": "evm",
-    "name": "Shardeum Betanet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
-    "symbol": "SHM",
-    "gasPrice": "1000000000",
-    "rpc": "https://sphinx.shardeum.org/",
-    "explorer": "https://explorer-sphinx.shardeum.org/tx/_txn_hash"
-  },
+
   {
     "chain_id": "5851",
     "type": "evm",
     "name": "Ontology Testnet",
-    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Ontology_color.png",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/ONT.png",
     "symbol": "ONG",
     "gasPrice": "70615000000000",
     "rpc": "https://polaris1.ont.io:10339/",
@@ -172,7 +203,7 @@
   {
     "chain_id": "123",
     "type": "evm",
-    "name": "Fuse Network",
+    "name": "Fuse Spark Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Fuse.png",
     "symbol": "Fuse",
     "gasPrice": "15000000000",
@@ -185,8 +216,18 @@
     "name": "zkEVM-testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/zkevm.jpeg",
     "symbol": "zkEVM",
-    "gasPrice": "3000000000",
+    "gasPrice": "200000000000",
     "rpc": "https://rpc.public.zkevm-test.net",
-    "explorer": "https://explorer.public.zkevm-test.net/tx/_txn_hash"
+    "explorer": "https://testnet-zkevm.polygonscan.com/tx/_txn_hash"
+  },
+  {
+    "chain_id": "167005",
+    "type": "evm",
+    "name": "Taiko-testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/taiko-icon.png",
+    "symbol": "ETH",
+    "gasPrice": "20000000000",
+    "rpc": "https://rpc.test.taiko.xyz",
+    "explorer": "https://explorer.test.taiko.xyz/tx/_txn_hash"
   }
 ]
