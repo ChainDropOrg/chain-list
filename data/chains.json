@@ -162,7 +162,7 @@
   {
     "chain_id": "8081",
     "type": "evm",
-    "name": "Shardeum Testnet",
+    "name": "Shardeum Dappnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
     "symbol": "SHM",
     "gasPrice": "300000000000",
@@ -221,13 +221,13 @@
     "explorer": "https://testnet-zkevm.polygonscan.com/tx/_txn_hash"
   },
   {
-    "chain_id": "167005",
+    "chain_id": "167007",
     "type": "evm",
     "name": "Taiko-testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/taiko-icon.png",
     "symbol": "ETH",
     "gasPrice": "20000000000",
-    "rpc": "https://rpc.test.taiko.xyz",
-    "explorer": "https://explorer.test.taiko.xyz/tx/_txn_hash"
+    "rpc": "https://rpc.jolnir.taiko.xyz",
+    "explorer": "https://explorer.jolnir.taiko.xyz/tx/_txn_hash"
   }
 ]
