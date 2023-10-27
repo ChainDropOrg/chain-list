@@ -15,7 +15,7 @@
     "name": "Sepolia Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/eth.svg",
     "symbol": "sETH",
-    "gasPrice": "6000000000000",
+    "gasPrice": "2000000000",
     "rpc": "https://eth-sepolia.g.alchemy.com/v2/VZuKJ8r8DNkp7-YEc8NNg51BQnuwdhXK",
     "explorer": "https://sepolia.etherscan.io/tx/_txn_hash"
   },
