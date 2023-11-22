@@ -229,5 +229,15 @@
     "gasPrice": "20000000000",
     "rpc": "https://rpc.jolnir.taiko.xyz",
     "explorer": "https://explorer.jolnir.taiko.xyz/tx/_txn_hash"
+  },
+  {
+    "chain_id": "9000",
+    "type": "evm",
+    "name": "Quai Testnet",
+    "logoURI": "https://qu.ai/wp-content/uploads/2023/01/Group-10122043.png",
+    "symbol": "QUAI",
+    "gasPrice": "2000000000",
+    "rpc": "https://rpc.cyprus1.colosseum.quaiscan.io/",
+    "explorer": "https://cyprus1.colosseum.quaiscan.io/tx/_txn_hash"
   }
 ]
