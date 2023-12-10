@@ -239,5 +239,15 @@
     "gasPrice": "2000000000",
     "rpc": "https://rpc.cyprus1.colosseum.quaiscan.io/",
     "explorer": "https://cyprus1.colosseum.quaiscan.io/tx/_txn_hash"
+  },
+  {
+    "chain_id": "7001",
+    "type": "evm",
+    "name": "ZetaChain Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/zeta.jpg",
+    "symbol": "ZETA",
+    "gasPrice": "2000000000",
+    "rpc": "https://rpc.ankr.com/zetachain_evm_athens_testnet/",
+    "explorer": "https://explorer.zetachain.com/tx/_txn_hash"
   }
 ]
