@@ -256,7 +256,7 @@
     "name": "Pangolin Testnet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/pangolin.svg",
     "symbol": "PRING",
-    "gasPrice": "2000000000",
+    "gasPrice": "200000000000",
     "rpc": "https://pangolin-rpc.darwinia.network/",
     "explorer": "https://pangolin.subscan.io/tx/_txn_hash"
   }
