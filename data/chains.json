@@ -249,5 +249,15 @@
     "gasPrice": "2000000000",
     "rpc": "https://rpc.ankr.com/zetachain_evm_athens_testnet/",
     "explorer": "https://explorer.zetachain.com/tx/_txn_hash"
+  },
+  {
+    "chain_id": "43",
+    "type": "evm",
+    "name": "Pangolin Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/pangolin.svg",
+    "symbol": "PRING",
+    "gasPrice": "2000000000",
+    "rpc": "https://pangolin-rpc.darwinia.network/",
+    "explorer": "https://pangolin.subscan.io/tx/_txn_hash"
   }
 ]
