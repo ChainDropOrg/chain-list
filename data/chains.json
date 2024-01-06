@@ -155,7 +155,7 @@
     "name": "Shardeum Betanet",
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Shardeum.png",
     "symbol": "SHM",
-    "gasPrice": "300000000000",
+    "gasPrice": "2000000000",
     "rpc": "https://sphinx.shardeum.org/",
     "explorer": "https://explorer-sphinx.shardeum.org/tx/_txn_hash/"
   },
