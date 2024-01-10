@@ -227,8 +227,8 @@
     "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/taiko-icon.png",
     "symbol": "ETH",
     "gasPrice": "20000000000",
-    "rpc": "https://rpc.jolnir.taiko.xyz",
-    "explorer": "https://explorer.jolnir.taiko.xyz/tx/_txn_hash"
+    "rpc": "https://rpc.katla.taiko.xyz/",
+    "explorer": "https://explorer.katla.taiko.xyz/tx/_txn_hash"
   },
   {
     "chain_id": "9000",
