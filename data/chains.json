@@ -249,5 +249,15 @@
     "gasPrice": "2000000000",
     "rpc": "https://rpc.ankr.com/zetachain_evm_athens_testnet/",
     "explorer": "https://explorer.zetachain.com/tx/_txn_hash"
+  },
+  {
+    "chain_id": "701",
+    "type": "evm",
+    "name": "Darwinia Koi Testnet",
+    "logoURI": "https://chaindroporg.github.io/chain-list/data/logo/Koi.svg",
+    "symbol": "KRING",
+    "gasPrice": "2000000000",
+    "rpc": "https://koi-rpc.darwinia.network",
+    "explorer": "https://koi-scan.darwinia.network/tx/_txn_hash"
   }
 ]
